@@ -1,0 +1,14 @@
+
+"Formatting"
+   :set ts=4
+   :set number
+   :set sw=2
+  
+  
+"Tools"
+   :set incsearch
+   :set ignorecase
+   :set smartcase
+
+"Plugins"
+filetype plugin on
